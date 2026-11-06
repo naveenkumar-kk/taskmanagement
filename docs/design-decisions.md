@@ -14,8 +14,8 @@
 
 # AI Usage
 
-1. Used to create a calling the functions and printing the response, main.java from line 85
-2. For test files - not all, since i'm new to testing i tried to create it myself as much i can but
+1. Used AI to create a function calls and printing the response, main.java from line 85
+2. For test files - not all, since i'm new to testing i tried to create it myself as much as i can but
    i referenced using codex
 3. Checked whether code is following solid principle or not.
 4. Referenced Json repository since storing data in the json file
